@@ -1,4 +1,4 @@
-# EX-10-SIMULATING-CLUSTERING-USING-WEKA-DATA-MINING-AND-ANALYSIS-TOOL
+# EX-10: SIMULATING CLUSTERING USING WEKA DATA MINING AND ANALYSIS TOOL
 ### AIM:
 To perform a classification technique using WEKA tool.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   **DATE :** 26.10.2023  
 ### WEKA:
